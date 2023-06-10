@@ -3,7 +3,7 @@
 ## Files
 - index.html This is the main page of the website. It contains information about the website.
 
-- Images/ This directory contains images used on the website.
+- Images/ This directory contains images on the website.
 
 ## How to run/test this project
 
